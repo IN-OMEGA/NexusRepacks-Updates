@@ -1,7 +1,7 @@
 {
-  "version": "2.5.2",
-  "url": "https://github.com/IN-OMEGA/NexusRepacks-Updates/releases/download/nexus-v2.5.2/Nexus-Repacks.exe",
-  "sha256": "db125510d8925133b18fe0a85f874850bc707cba4e3b50187a4123b11710340b",
-  "size": 27849210,
-  "signature": "5fq1F+TS4tzFAOvezLzriah2Y/QiyUDgyn1qVTk4K493F272FKD/PWUcDh0EzLG6Gsz7jW9J0e81sA7jOoMoDQ=="
+  "version": "2.5.3",
+  "url": "https://github.com/IN-OMEGA/NexusRepacks-Updates/releases/download/nexus-v2.5.3/Nexus-Repacks.exe",
+  "sha256": "0f5d07afb732672ed36a49fa50ac1a4574047ee6dfbf269640525b8e821dbc0f",
+  "size": 27853546,
+  "signature": "XB16Q46GN6L3FzilCwHSJH/jLD9OcdgqIE3gzW+FaEr8cDDE+hqf/aK1lVyXB0rD5obgknXmN/qX0Saqenf7Bg=="
 }
